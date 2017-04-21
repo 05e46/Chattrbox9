@@ -1,7 +1,7 @@
 {
-  "name": "chattrbox",
+  "name": "chattrbox9",
   "version": "1.0.0",
-  "description": "Answering Questions:\r -------------------------\r Have you created an ESLint configuration file?\r -\r Have you fixed any issues detected by the linter-eslint plugin?\r -\r Is there a package.json file?\r -\r Is there a .babelrc file?\r -\r Have you run the atom-beautify plugin?\r -\r Have you copied over the HTML and CSS for the project from front-end-resources.zip?\r -\r Have you fixed any JavaScript issues displayed in the DevTools Console?\r -\r Have you installed the mime module from the NPM Registry?\r -\r Have you fixed the error about MIME types from Step (6) above? \r -\r Can you place a file in chattrbox/app/ and have it served by index.js?\r -\r Can multiple clients connect to ws://localhost:3001 and participate in a chat?\r -\r Is the directory structure for chattrbox/app/scripts in place?\r -\r Can you use npm run watch to view http://localhost:3000 in a browser?\r -\r Do you have a new repository for this assignment?\r -\r Have you checked in the changes from this assignment and pushed them to GitHub?\r -",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,8 +20,5 @@
   "homepage": "https://github.com/05e46/Chattrbox9#readme",
   "devDependencies": {
     "nodemon": "^1.11.0"
-  },
-  "dependencies": {
-    "ws": "^2.2.3"
   }
 }
