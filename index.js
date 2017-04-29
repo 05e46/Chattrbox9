@@ -5,7 +5,7 @@ that will log a message in the callback
 */
 var server = http.createServer(function(reg, res) {
   console.log('Responding to a request');
-  var url = req.url;
+  var url=req.url;
 
   var fileName = 'index.html';
   if(url.length >1){
