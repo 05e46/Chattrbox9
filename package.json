@@ -1,12 +1,10 @@
 {
   "name": "chatterbox9",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +18,6 @@
   "homepage": "https://github.com/05e46/Chattrbox9#readme",
   "devDependencies": {
     "nodemon": "^1.11.0"
-  }
+  },
+  "description": ""
 }
